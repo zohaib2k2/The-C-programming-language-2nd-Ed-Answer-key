@@ -1,2 +1,0 @@
-hello lets see if i was able to properly redirect my
-input with proper lines
